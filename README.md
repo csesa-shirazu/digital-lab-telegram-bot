@@ -1,3 +1,3 @@
 # digital-lab-telegram-bot
 
-برای دیتابیس میتونید از google sheet استفاده کنید و از خروجی xml بهره ببرید.
+Convert your google sheet to xml and use it as bot's database.
